@@ -1,3 +1,3 @@
 export default{
-    apiUrl:'http://localhost:3000/heroes'
+    apiUrl:'https://heroes-test-api.herokuapp.com/heroes'
 }
